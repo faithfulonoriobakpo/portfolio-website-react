@@ -1,0 +1,10 @@
+.profilepic img{
+    height: 150px;
+    width: 150px;
+    border-radius: 90%;
+    display: flex;
+    vertical-align: middle;
+    object-fit: cover;
+    border: 3px solid yellow;
+    margin: 0 auto;
+}

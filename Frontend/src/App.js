@@ -1,8 +1,11 @@
 import React from 'react';
+import Sidebar from './Components/Sidebar/Sidebar';
 
 const App = () => {
   return(
-    <h1 className='card'>Hello React</h1>
+    <>
+      <Sidebar />
+    </>
   );
 }
 
