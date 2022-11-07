@@ -8,3 +8,27 @@
     border: 3px solid yellow;
     margin: 0 auto;
 }
+
+.nav-items ul li {
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.nav-items ul li svg {
+    margin-left: 10px;
+    margin-right: 25px;
+}
+
+.nav-items-collapsed ul li {
+    color: white;
+    list-style-type: none;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.nav-items-collapsed ul li svg {
+    margin-left: 10px;
+    margin-right: 25px;
+}
