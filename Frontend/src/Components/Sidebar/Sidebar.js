@@ -21,7 +21,7 @@ const Sidebar = () => {
             <Sidelist showProfilePic={expandSideBar} />
         </div>
 
-        <div className='container'>
+        <div className='container' style={{'padding': '0 200px'}}>
             <Home />
         </div>
     </div>

@@ -1,0 +1,11 @@
+.home {
+    height: 400px;
+    color: white;
+}
+.home-content h1{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    line-height: 400px;
+    padding: 10px;
+}
