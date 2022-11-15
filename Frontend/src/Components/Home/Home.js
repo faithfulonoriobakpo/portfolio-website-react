@@ -17,6 +17,10 @@ const Home = () => {
             }}
           />
         </h3>
+        <div className='hire-resume-button-container'>
+          <div className='hire-me-button'>Hire Me</div>
+          <div>Get Resume</div>
+        </div>
       </div>
     </div>
   )

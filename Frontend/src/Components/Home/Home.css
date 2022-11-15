@@ -13,3 +13,43 @@
     color: rgb(239, 204, 77);
     margin-top: 20px;
 }
+
+.hire-resume-button-container {
+    display: flex;
+}
+
+.hire-me-button {
+    background-color: #ff854c;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 2px solid yellow;
+    width: 180px;
+}
+
+.hire-me-button:hover {
+    background-color: #ff854c;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 2px solid yellow;
+    width: 180px;
+}
+
+hire-me-button:hover {
+    background-color: #ff854c;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    border-radius: 90px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: 2px solid yellow;
+    width: 180px;
+}
