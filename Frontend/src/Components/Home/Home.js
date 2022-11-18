@@ -19,7 +19,7 @@ const Home = () => {
         </h3>
         <div className='hire-resume-button-container'>
           <div className='hire-me-button'>Hire Me</div>
-          <div className='hire-me-button'>Get Resume</div>
+          <div className='get-resume-button'>Get Resume</div>
         </div>
       </div>
     </div>
