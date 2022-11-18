@@ -69,3 +69,8 @@
     width: 250px;
     transition-duration: 1s;
 }
+
+a.get-resume-button {
+    text-decoration: none;
+    color: black;
+}
