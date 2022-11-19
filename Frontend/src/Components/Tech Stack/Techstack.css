@@ -1,0 +1,14 @@
+.techstack-section {
+    padding: 0 200px;
+    margin-top: 50px;
+}
+.section-title {
+    text-align: center;
+}
+.section-title #line {
+    display: block;
+    width: 80px;
+    height: 3px;
+    margin: -7px auto 5px auto;
+    background-color: yellowgreen;
+}
