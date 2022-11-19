@@ -1,0 +1,13 @@
+.about-section {
+    padding: 0 200px;
+    margin-top: 50px;
+}
+.about-image img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 190px;
+    margin-top: 50px;
+    border: 2px solid yellow;
+}
