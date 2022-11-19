@@ -19,7 +19,7 @@ const About = () => {
                     </div>
                     <p> 
                     I am a Frontend Developer with over 3 years of experience in the tech industry. I have in depth 
-                    knowledge and experience with modern technologies like React, Angular, Typescript and NodeJs.<br></br><br></br>
+                    knowledge and experience of modern technologies like React, Angular, Typescript and NodeJs.<br></br><br></br>
                     My experience spans from fulltime jobs especially in the finance industry and freelance jobs.
                     <br></br><br></br>
                     Asides working, I love exploring new technologies, playing the piano and watching Anime.

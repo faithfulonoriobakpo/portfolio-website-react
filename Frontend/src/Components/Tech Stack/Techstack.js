@@ -1,6 +1,6 @@
 import React from 'react';
 import './Techstack.css';
-import {FaHtml5,FaCss3,FaJs,FaNodeJs} from 'react-icons/fa';
+import {FaHtml5,FaJs,FaNodeJs} from 'react-icons/fa';
 import {SiCss3,SiTypescript,SiReact,SiAngular,SiPython,SiFlask,SiPostgresql} from 'react-icons/si';
 
 const Techstack = () => {
@@ -56,7 +56,7 @@ const Techstack = () => {
             <span id='line'></span>
         </div>
         <div className='row'>
-            {data.map((item, index) => (<div className='col-xl-4 col-lg-4 col-md-6 col-sm-12'>
+            {data.map((item, index) => (<div className='col-xl-4 col-lg-4 col-md-6 col-sm-12' key={index}>
                     <div className='techstack-content'>
                         <p>{item.icon}</p>
                         <p>{item.name}</p>
