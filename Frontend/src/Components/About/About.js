@@ -11,7 +11,21 @@ const About = () => {
                     <img src={aboutPhoto} alt='picture of faithful'/>
                 </div>
             </div>
-            <div className='col-xl-6 col-lg-6 col-md-12 col-sm-12'></div>
+            <div className='col-xl-6 col-lg-6 col-md-12 col-sm-12'>
+                <div className='about-details'>
+                    <div className='about-title'>
+                        <h5>About Me</h5>
+                        <span id='about-title-line'></span>
+                    </div>
+                    <p> 
+                    I am a Frontend Developer with over 3 years of experience in the tech industry. I have in depth 
+                    knowledge and experience with modern technologies like React, Angular, Typescript and NodeJs.<br></br><br></br>
+                    My experience spans from fulltime jobs especially in the finance industry and freelance jobs.
+                    <br></br><br></br>
+                    <p>Asides working, I love exploring new technologies, playing the piano and watching Anime.</p>
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
   )
