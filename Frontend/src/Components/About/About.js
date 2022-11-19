@@ -22,7 +22,7 @@ const About = () => {
                     knowledge and experience with modern technologies like React, Angular, Typescript and NodeJs.<br></br><br></br>
                     My experience spans from fulltime jobs especially in the finance industry and freelance jobs.
                     <br></br><br></br>
-                    <p>Asides working, I love exploring new technologies, playing the piano and watching Anime.</p>
+                    Asides working, I love exploring new technologies, playing the piano and watching Anime.
                     </p>
                 </div>
             </div>
